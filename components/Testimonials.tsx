@@ -4,7 +4,7 @@ import React from 'react';
 const Testimonials: React.FC = () => {
   const testimonials = [
     {
-      text: "Jahirul transformed our vision into a digital masterpiece. His attention to detail and technical skill are unparalleled in the freelance market.",
+      text: "Farhan transformed our vision into a digital masterpiece. His attention to detail and technical skill are unparalleled in the freelance market.",
       author: "SARAH JENKINS",
       role: "CEO, NexaCorp",
       avatar: "https://picsum.photos/seed/sarah/100/100"
