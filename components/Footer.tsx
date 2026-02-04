@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
       <div className="max-w-7xl mx-auto px-6">
         <div className="flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="text-xl font-heading font-black text-white">
-            JAHIRUL ISLAM<span className="text-brand-blue">.</span>
+            FARHAN ISLAM<span className="text-brand-blue">.</span>
           </div>
           
           <div className="flex space-x-8">
