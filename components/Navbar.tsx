@@ -26,7 +26,7 @@ const Navbar: React.FC = () => {
     }`}>
       <div className="max-w-7xl mx-auto px-5 md:px-6 flex justify-between items-center">
         <div className="text-xl md:text-2xl font-heading font-black tracking-tighter text-white">
-          FARHAN ISLAM<span className="text-brand-blue">.</span>
+          JAHIRUL ISLAM<span className="text-brand-blue">.</span>
         </div>
         
         <div className="hidden md:flex space-x-8">
