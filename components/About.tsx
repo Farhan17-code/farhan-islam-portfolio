@@ -15,13 +15,13 @@ const About: React.FC = () => {
             <div className="absolute -inset-4 bg-gradient-to-br from-brand-blue/20 to-brand-green/20 rounded-lg blur-2xl group-hover:opacity-100 transition duration-500 opacity-50"></div>
             <div className="relative aspect-square max-w-md mx-auto overflow-hidden rounded-2xl border-2 border-brand-blue/50">
               <img 
-                src="https://files.catbox.moe/6jpj4g.jpg" 
+                src="https://picsum.photos/seed/farhan/800/800" 
                 alt="Farhan Islam" 
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
               />
             </div>
             <div className="absolute -bottom-6 -right-6 bg-brand-blue text-white p-6 rounded-lg shadow-xl hidden md:block">
-              <span className="text-4xl font-black block">04+</span>
+              <span className="text-4xl font-black block">02+</span>
               <span className="text-xs uppercase tracking-widest font-bold opacity-80">Years Experience</span>
             </div>
           </div>
