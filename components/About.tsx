@@ -21,7 +21,7 @@ const About: React.FC = () => {
               />
             </div>
             <div className="absolute -bottom-6 -right-6 bg-brand-blue text-white p-6 rounded-lg shadow-xl hidden md:block">
-              <span className="text-4xl font-black block">01+</span>
+              <span className="text-4xl font-black block">04+</span>
               <span className="text-xs uppercase tracking-widest font-bold opacity-80">Years Experience</span>
             </div>
           </div>
