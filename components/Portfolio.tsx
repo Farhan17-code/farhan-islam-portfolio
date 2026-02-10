@@ -6,7 +6,7 @@ const Portfolio: React.FC = () => {
     {
       title: 'Phantom Wears',
       category: 'E-Commerce / Fashion',
-      image: 'https://files.catbox.moe/j5ng2l.png',
+      image: 'https://shop.farhan-islam.org/',
       description: 'A futuristic dashboard for managing decentralized assets with real-time analytics.'
     },
     {
