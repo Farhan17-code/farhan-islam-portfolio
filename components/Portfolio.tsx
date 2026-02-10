@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const Portfolio: React.FC = () => {
@@ -7,13 +6,15 @@ const Portfolio: React.FC = () => {
       title: 'Phantom Wears',
       category: 'E-Commerce / Fashion',
       image: 'https://elmlfaxrtgrlgzeqiynp.supabase.co/storage/v1/object/public/products/Screenshot%202026-02-10%20135455.png',
-      description: 'A futuristic dashboard for managing decentralized assets with real-time analytics.'
+      description: 'A futuristic dashboard for managing decentralized assets with real-time analytics.',
+      link: 'https://shop.farhan-islam.org' // Replace with your actual link
     },
     {
       title: 'Lumina luxe',
       category: 'E-Commerce / Artisanal Goods',
       image: 'https://elmlfaxrtgrlgzeqiynp.supabase.co/storage/v1/object/public/products/Screenshot%202026-02-10%20134743.png',
-      description: 'High-speed interface for a luxury electric vehicle configurator.'
+      description: 'High-speed interface for a luxury electric vehicle configurator.',
+      link: 'https://luminaluxe.vercel.app/' // Replace with your actual link
     },
   ];
 
@@ -56,7 +57,9 @@ const Portfolio: React.FC = () => {
                   {project.description}
                 </p>
                 <a 
-                  href="#" 
+                  href={project.link} 
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="inline-flex items-center space-x-2 text-brand-green font-bold text-xs uppercase tracking-widest hover:text-white transition-colors"
                 >
                   <span>View Case Study</span>
