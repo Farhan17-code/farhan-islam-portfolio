@@ -6,13 +6,13 @@ const Portfolio: React.FC = () => {
     {
       title: 'Phantom Wears',
       category: 'E-Commerce / Fashion',
-      image: 'https://shop.farhan-islam.org/',
+      image: 'https://elmlfaxrtgrlgzeqiynp.supabase.co/storage/v1/object/public/products/Screenshot%202026-02-10%20135455.png',
       description: 'A futuristic dashboard for managing decentralized assets with real-time analytics.'
     },
     {
-      title: 'Shomrat',
+      title: 'Lumina luxe',
       category: 'E-Commerce / Artisanal Goods',
-      image: 'https://files.catbox.moe/avrb0i.png',
+      image: 'https://elmlfaxrtgrlgzeqiynp.supabase.co/storage/v1/object/public/products/Screenshot%202026-02-10%20134743.png',
       description: 'High-speed interface for a luxury electric vehicle configurator.'
     },
   ];
