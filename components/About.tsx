@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const About: React.FC = () => {
@@ -15,7 +14,7 @@ const About: React.FC = () => {
             <div className="absolute -inset-4 bg-gradient-to-br from-brand-blue/20 to-brand-green/20 rounded-lg blur-2xl group-hover:opacity-100 transition duration-500 opacity-50"></div>
             <div className="relative aspect-square max-w-md mx-auto overflow-hidden rounded-2xl border-2 border-brand-blue/50">
               <img 
-                src="https://picsum.photos/seed/farhan/800/800" 
+                src="https://elmlfaxrtgrlgzeqiynp.supabase.co/storage/v1/object/public/products/F3.jpeg" 
                 alt="Farhan Islam" 
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
               />
