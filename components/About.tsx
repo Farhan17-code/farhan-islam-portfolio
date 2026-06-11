@@ -14,7 +14,7 @@ const About: React.FC = () => {
             <div className="absolute -inset-4 bg-gradient-to-br from-brand-blue/20 to-brand-green/20 rounded-lg blur-2xl group-hover:opacity-100 transition duration-500 opacity-50"></div>
             <div className="relative aspect-square max-w-md mx-auto overflow-hidden rounded-2xl border-2 border-brand-blue/50">
               <img 
-                src="https://www.facebook.com/photo/?fbid=122103826581350273&set=a.122096601093350273&__cft__[0]=AZbgZZ09VZO7BIofFkQzrvo67hZJF8HxtKtoLsfm-OM_U0BePLmc1NFtOpyzVWOWkxLkbty-NdiZTRe5vewMW41rGztNC_XJNqpyUNx0z15Xfoz_lAWWEAMZguxy16rGVtWzgHmKlgIFCPEG0Bn4LwO2ce8a-EM-LYOqjMLTEmytmg&__tn__=~H-R" 
+                src="https://fcfqmuluqxqapccffkzj.supabase.co/storage/v1/object/public/products/F.jpg" 
                 alt="Farhan Islam" 
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
               />
